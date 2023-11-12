@@ -1,4 +1,4 @@
-# Neural-Network-Hardware-Acceleration
+# FPGA Accelerated CNN Handwritten Digit Recognition
 
 The EP4CE22F17 chip development board is used here.
 ![-240904199](https://github.com/Cam2024/Neural-Network-Hardware-Acceleration/assets/89662823/bfb182ab-ddcf-458e-92f1-5f39db8b6a64)
