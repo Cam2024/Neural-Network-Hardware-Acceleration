@@ -3,7 +3,7 @@
 The EP4CE22F17 chip development board is used here.
 ![-240904199](https://github.com/Cam2024/Neural-Network-Hardware-Acceleration/assets/89662823/bfb182ab-ddcf-458e-92f1-5f39db8b6a64)
 
-The main convolutional network RTL view:
+The convolutional RTL view:
 ![covtop](https://github.com/Cam2024/Neural-Network-Hardware-Acceleration/assets/89662823/fb35faf5-fb59-4e91-9f10-07dec23ff66c)
 
 Convolutional neural network RTL view:
